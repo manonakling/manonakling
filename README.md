@@ -28,6 +28,7 @@ My professional experience in healthcare has inspired me to explore how informat
 
 ---
 
+
 ## 💻 My Tech Toolkit
 
 <div align="center">
@@ -38,6 +39,12 @@ My professional experience in healthcare has inspired me to explore how informat
 ![GitHub](https://img.shields.io/badge/GitHub-E9D5FF?style=for-the-badge&logo=github&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-FBCFE8?style=for-the-badge&logo=microsoftexcel&logoColor=black)
 ![RStudio](https://img.shields.io/badge/RStudio-DDC6F7?style=for-the-badge&logo=rstudioide&logoColor=black)
+
+### 🏥 Healthcare Information Systems
+
+![Epic EHR](https://img.shields.io/badge/Epic-EHR-C084FC?style=for-the-badge&labelColor=E9D5FF)
+
+</div>
 
 </div>
 
