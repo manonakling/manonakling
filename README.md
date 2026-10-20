@@ -46,7 +46,6 @@ My professional experience in healthcare has inspired me to explore how informat
 
 </div>
 
-</div>
 
 ---
 
