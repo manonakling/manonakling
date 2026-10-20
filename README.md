@@ -65,14 +65,6 @@ Applying hypothesis testing, correlation, regression, and data-quality evaluatio
 
 ---
 
-## 📊 My GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&bg_color=FFF0F8&title_color=9575CD&text_color=755A85&icon_color=E8A0BF&border_color=D8B4FE)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&bg_color=FFF0F8&title_color=9575CD&text_color=755A85&border_color=D8B4FE)
-
 </div>
 
 ---
